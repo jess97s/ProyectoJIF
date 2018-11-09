@@ -1,0 +1,9 @@
+E:\ProyectoJIF\FormJif\bin\Debug\FormJif.exe.config
+E:\ProyectoJIF\FormJif\obj\Debug\FormJif.csprojResolveAssemblyReference.cache
+E:\ProyectoJIF\FormJif\obj\Debug\FormJif.FCliente.resources
+E:\ProyectoJIF\FormJif\obj\Debug\FormJif.FCredito.resources
+E:\ProyectoJIF\FormJif\obj\Debug\FormJif.FProducto.resources
+E:\ProyectoJIF\FormJif\obj\Debug\FormJif.MDIJif.resources
+E:\ProyectoJIF\FormJif\obj\Debug\FormJif.Properties.Resources.resources
+E:\ProyectoJIF\FormJif\obj\Debug\FormJif.FCred_Prod.resources
+E:\ProyectoJIF\FormJif\obj\Debug\FormJif.csproj.GenerateResource.Cache

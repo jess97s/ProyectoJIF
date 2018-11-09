@@ -1,0 +1,7 @@
+E:\ProyectoJIF\capaDatos\bin\Debug\capaDatos.dll
+E:\ProyectoJIF\capaDatos\bin\Debug\capaDatos.pdb
+E:\ProyectoJIF\capaDatos\bin\Debug\capaEntidades.dll
+E:\ProyectoJIF\capaDatos\bin\Debug\capaEntidades.pdb
+E:\ProyectoJIF\capaDatos\obj\Debug\capaDatos.csprojResolveAssemblyReference.cache
+E:\ProyectoJIF\capaDatos\obj\Debug\capaDatos.dll
+E:\ProyectoJIF\capaDatos\obj\Debug\capaDatos.pdb

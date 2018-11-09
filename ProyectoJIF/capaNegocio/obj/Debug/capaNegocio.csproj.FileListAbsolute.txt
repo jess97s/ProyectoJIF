@@ -1,0 +1,9 @@
+E:\ProyectoJIF\capaNegocio\bin\Debug\capaNegocio.dll
+E:\ProyectoJIF\capaNegocio\bin\Debug\capaNegocio.pdb
+E:\ProyectoJIF\capaNegocio\bin\Debug\capaDatos.dll
+E:\ProyectoJIF\capaNegocio\bin\Debug\capaEntidades.dll
+E:\ProyectoJIF\capaNegocio\bin\Debug\capaDatos.pdb
+E:\ProyectoJIF\capaNegocio\bin\Debug\capaEntidades.pdb
+E:\ProyectoJIF\capaNegocio\obj\Debug\capaNegocio.csprojResolveAssemblyReference.cache
+E:\ProyectoJIF\capaNegocio\obj\Debug\capaNegocio.dll
+E:\ProyectoJIF\capaNegocio\obj\Debug\capaNegocio.pdb
